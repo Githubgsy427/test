@@ -36,6 +36,6 @@ jobs:
           echo test, and deploy your project.
       - name: 代码测试
         run:
-          cat src/asd.java
+          cat src/*
 
 
