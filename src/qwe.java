@@ -1,5 +1,5 @@
 package src;
 
 public class qwe {
-    public int a;
+    public intd a;
 }
