@@ -1,5 +1,6 @@
-package src;
+package test.src;
 
 public class qwe {
-    public intd a;
+    public int a;
+
 }
